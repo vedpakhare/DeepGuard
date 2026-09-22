@@ -1,0 +1,8 @@
+torch 
+torchvision 
+timm 
+streamlit 
+opencv-python 
+facenet-pytorch 
+grad-cam 
+reportlab 
